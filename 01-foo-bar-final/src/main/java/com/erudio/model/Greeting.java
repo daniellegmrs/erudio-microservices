@@ -1,4 +1,4 @@
-package com.erudio;
+package com.erudio.model;
 
 public class Greeting {
 	
